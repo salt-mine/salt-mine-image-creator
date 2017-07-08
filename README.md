@@ -8,7 +8,7 @@ This media creator will run as intended from source.
 
 ## Windows and MacOS
 
-Native Windows/MacOS support is not currently planned without the use of Docker/OCF detailed below.
+Native Windows/MacOS support is not currently planned without the use of Docker or the Virtual Machine OVA detailed below.
 
 ## Docker
 
