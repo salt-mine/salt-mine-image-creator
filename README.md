@@ -17,3 +17,7 @@ See: [Salt Mine Image Creator Docker](https://github.com/salt-mine/salt-mine-ima
 ## Open Container Format Image Creator (VMWare/VirtualBox/Etc...)
 
 See: [Salt Mine Image Creator OVA](https://github.com/salt-mine/salt-mine-image-creator-ova)
+
+## Beer Fund
+
+ETH: 0xdeB50Ba3A53f009e1428A6CAb4e613D3Dc3b3AE5
