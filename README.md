@@ -20,4 +20,4 @@ See: [Salt Mine Image Creator OVA](https://github.com/salt-mine/salt-mine-image-
 
 ## Beer/College Fund
 
-**Ethereum Address: [0xdeB50Ba3A53f009e1428A6CAb4e613D3Dc3b3AE5](https://shapeshift.io/shifty.html?destination=0xdeB50Ba3A53f009e1428A6CAb4e613D3Dc3b3AE5&output=ETH&amount=0.1)**
+**Ethereum Address: [0xdeB50Ba3A53f009e1428A6CAb4e613D3Dc3b3AE5](https://shapeshift.io/shifty.html?destination=0xdeB50Ba3A53f009e1428A6CAb4e613D3Dc3b3AE5&output=ETH&apiKey=b584665266c2e013da10affce0452059d384d964edce94f2a013aaceb5356c932474e8122c7fbccd1bb230914fb891c6f376267013ff1fc93ac09089effff8d6&amount=0.1)**
