@@ -18,6 +18,6 @@ See: [Salt Mine Image Creator Docker](https://github.com/salt-mine/salt-mine-ima
 
 See: [Salt Mine Image Creator OVA](https://github.com/salt-mine/salt-mine-image-creator-ova)
 
-## Beer Fund
+## Beer/College Fund
 
 **Ethereum Address: [0xdeB50Ba3A53f009e1428A6CAb4e613D3Dc3b3AE5](https://shapeshift.io/shifty.html?destination=0xdeB50Ba3A53f009e1428A6CAb4e613D3Dc3b3AE5&output=ETH&amount=0.1)**
